@@ -1,1 +1,82 @@
-{"type": "FeatureCollection", "features": [{"type":"Feature","geometry":{"type":"Point","coordinates":[-117.161084,32.715738]},"properties":{"cartodb_id":1,"id":1,"city":"san diego","lat":32.715738,"lon":-117.161084,"food_rating":3,"status":"lived there"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-122.419416,37.774929]},"properties":{"cartodb_id":2,"id":2,"city":"san francisco","lat":37.774929,"lon":-122.419416,"food_rating":2,"status":"been there"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-72.927884,41.308274]},"properties":{"cartodb_id":3,"id":3,"city":"new haven","lat":41.308274,"lon":-72.927884,"food_rating":1,"status":"studied there"}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.161084,
+          32.715738
+        ]
+      },
+      "properties": {
+        "cartodb_id": 1,
+        "id": 1,
+        "city": "san diego",
+        "lat": 32.715738,
+        "lon": -117.161084,
+        "food_rating": 3,
+        "status": "lived there"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.419416,
+          37.774929
+        ]
+      },
+      "properties": {
+        "cartodb_id": 2,
+        "id": 2,
+        "city": "san francisco",
+        "lat": 37.774929,
+        "lon": -122.419416,
+        "food_rating": 2,
+        "status": "been there"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.927884,
+          41.308274
+        ]
+      },
+      "properties": {
+        "cartodb_id": 3,
+        "id": 3,
+        "city": "new haven",
+        "lat": 41.308274,
+        "lon": -72.927884,
+        "food_rating": 1,
+        "status": "studied there"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "cartodb_id": 5,
+        "id": 5,
+        "city": "test",
+        "lat": 1,
+        "lon": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.12890625,
+          43.004647127794435
+        ]
+      }
+    }
+  ]
+}
